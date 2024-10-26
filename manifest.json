@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Ultra Adblock",
     "version": "1.0.0",
-    "description": "Ultra Adblock keeps your browsing experience ad-free, blocking intrusive ads and improving page loading speeds. Enjoy distraction-free browsing and un-detectable blocking!",
+    "description": "Ultra Adblock keeps your browsing experience ad-free, blocking intrusive ads and improving page loading speeds. Enjoy distraction-free browsing and un-detectable blocking! Created by Daksh Prasad on Github",
     "permissions": [
       "declarativeNetRequest"
     ],
