@@ -1,0 +1,32 @@
+{
+    "manifest_version": 3,
+    "name": "Ultra Adblock",
+    "version": "1.0.0",
+    "description": "Ultra Adblock keeps your browsing experience ad-free, blocking intrusive ads and improving page loading speeds. Enjoy distraction-free browsing and un-detectable blocking!",
+    "permissions": [
+      "declarativeNetRequest"
+    ],
+    "declarative_net_request": {
+      "rule_resources": [
+        {
+          "id": "ruleset_1",
+          "enabled": true,
+          "path": "rules.json"
+        }
+      ]
+    },
+    "icons": {
+      "16": "icon18.png",     // Toolbar icon size
+      "48": "icon48.png",     // Medium icon size for display
+      "128": "icon128.png"    // Icon for Chrome Web Store listing
+    },
+    "action": {
+      "default_icon": {
+        "16": "icon18.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+      },
+      "default_title": "Ultra Adblock"
+    }
+  }
+  
