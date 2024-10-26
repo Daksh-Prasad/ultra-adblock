@@ -6,7 +6,7 @@ Created by Daksh Prasad
 
 ## Setup Instructions
 1. Download ZIP, then unzip it
-2. Go to [Chrome Extensions](chrome://extensions/)
+2. Go to [Chrome Extensions](chrome://extensions/) (chrome://extensions/)
 3. Make sure 'Developer mode' is toggled on
 
 ![image](https://github.com/user-attachments/assets/afd1e956-be51-4b14-b6e1-54ce2a47a828)
