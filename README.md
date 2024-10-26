@@ -1,3 +1,4 @@
+![icon128](https://github.com/user-attachments/assets/412c7e80-8e99-4185-8934-284fe4d75a70)
 # Ultra Adblock
 Ultra Adblock keeps your browsing experience ad-free, blocking intrusive ads and improving page loading speeds. Enjoy distraction-free browsing and un-detectable blocking!
 Created by Daksh Prasad.
