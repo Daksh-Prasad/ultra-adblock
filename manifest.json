@@ -16,17 +16,18 @@
       ]
     },
     "icons": {
-      "16": "icon18.png",     // Toolbar icon size
+      "16": "icon16.png",     // Toolbar icon size
       "48": "icon48.png",     // Medium icon size for display
       "128": "icon128.png"    // Icon for Chrome Web Store listing
     },
     "action": {
       "default_icon": {
-        "16": "icon18.png",
+        "16": "icon16.png",
         "48": "icon48.png",
         "128": "icon128.png"
       },
       "default_title": "Ultra Adblock"
     }
   }
-  
+
+// Made by Daksh Prasad - https://github.com/Daksh-Prasad
